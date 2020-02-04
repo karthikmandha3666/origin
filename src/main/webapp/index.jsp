@@ -6,8 +6,8 @@
 
 <body>
 
-<img src="../image/preview.jpg">
-<p>This is Karthik ,the Upcoming HERO</p>
+<img src="./image/kar.png">
+<p>This is karthik</p>
 
 
 
