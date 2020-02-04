@@ -23,7 +23,7 @@
 
 <body>
 
-
+<img src="/src/image/preview.jpg">
 <p>This is Karthik ,the Upcoming HERO</p>
 
 
