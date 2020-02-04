@@ -21,7 +21,7 @@
     }
     img{
         height:250px;
-        width:100%;
+        max-width:100%;
     }
     @media screen and (max-width:768px){
        .sa{
@@ -38,17 +38,17 @@
 <div class="container-fluid max-width">
 <div class="row">
     <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-6 sa">
-        <img src="./image/pav.jpg" class="sam" >
+        <img src="./image/pav.jpg" class=" sam" >
     </div>
     <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-6 sasa">
         <img src="./image/123.jpg"  class="sam" >
     </div>
 </div>
-<h1 style="text-align: center;">With my love</h1>
+<h1 style="text-align: center;">$With my love$</h1>
 <div class="row  text-center">
 <div class="col-xl-2 col-lg-2 col-md-2 col-sm-2 col-2 "></div>
 <div class="col-xl-8 col-lg-8 col-md-8 col-sm-8 col-8 ">
-<img src="./image/3666.jpg"  class="" style="height:350px;" >
+<img src="./image/3666.jpg"  class="img-fluid" style="height:350px;" >
 </div>
 <div class="col-xl-2 col-lg-2 col-md-2 col-sm-2 col-2 "></div>
      
